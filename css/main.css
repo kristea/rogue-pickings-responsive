@@ -91,7 +91,7 @@ header nav ul li a{
 	margin: 0 auto;
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: left;
 	flex-flow: column wrap;
 }
 
@@ -127,11 +127,11 @@ header nav ul li a{
 }
 
 .section-one h3 {
-	padding: 10px 0;
+	padding: 10px 30px;
 }
 
 .section-two {
-
+	
 }
 
 .section-two h3,
@@ -141,7 +141,7 @@ header nav ul li a{
 
 .menu {
 	list-style: none;
-	padding: 0;
+	padding: 0 30px;
 }
 .menu li {
 	padding: 10px 0;
